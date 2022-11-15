@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>English Club</title>
+    <style>
+        #head {
+            text-align: center;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+                Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            color: deeppink;
+        }
+
+        nav {
+            justify-content: center;
+            text-align: center;
+            background-color: rgb(249, 245, 239);
+            margin: 0%;
+            padding: 0%;
+        }
+
+        a {
+            padding: 15px;
+            color: blue;
+        }
+
+        button {
+           
+            padding: 5px;
+            background-color: rgb(39, 232, 180);
+            border-radius: 6px;
+            color: bisque;
+        }
+
+        img {
+            justify-content: center;
+            height: 420px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        body {
+            background-color: rgb(167, 218, 246);
+        }
+    </style>
+</head>
+
+<body>
+    <nav>
+        <div>
+            <button><a href="Home_page.html">Home</a></button>
+            <button><a href="AboutUs.html" target="_blank">About us</a></button>
+            <button><a href="OurServices.html" target="_blank">Our Services</a></button>
+            <button><a href="Contact_us.html" target="_blank">Contact us</a></button>
+        </div>
+
+    </nav>
+
+    <div id="head">
+        <h1>Welcome to ENGLISH CLUB</h1>
+
+    </div>
+    <div id="image">
+        <img src="https://truonghoanglong.edu.vn/wp-content/uploads/2019/10/r.jpg" alt="Loading 
+Image">
+    </div>
+</body>
+
+</html>
