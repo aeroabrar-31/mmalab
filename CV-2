@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+</head>
+<style>
+    body{
+        background-color: lightblue;
+    }
+
+    table,tr,th{
+        border: 1px solid black;
+        border-collapse: collapse;
+        text-align: center;
+        padding: 10px;
+    }
+
+    th{
+        background-color: lightpink;
+    }
+    .head{
+        background-color: darkgrey;
+    }
+
+</style>
+<body >
+    <div class="head">
+        <p style="font-size: 20px;"> SHAIK ABRAR UL HAQ <br>Kurnool, Andhra Pradesh</p>
+        
+    </div>
+    
+    <div>
+        <p style="background-color: grey; font-size: 20px;" >Academic details</p>
+        <table style="width: 100%;">
+            <tr>
+                <th>Course</th>
+                <th>Board</th>
+                <th>Institute</th>
+                <th>CGPA</th>
+               
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </table>
+    </div>
+
+    <div>
+        <h2 style="background-color: grey; font-size: 20px;" >Technical Skills</h2>
+
+        
+
+
+    </div>
+
+    
+
+    <div>
+        <h2 style="background-color: grey; font-size: 20px;" >Extra Currical Activities</h2>
+
+        
+
+
+    </div>
+
+    <div>
+        <h2 style="background-color: grey; font-size: 20px;" >Strengths</h2>
+
+        
+
+
+    </div>
+
+    <div>
+        <h2 style="background-color: grey; font-size: 20px;" >Languages Known</h2>
+
+        
+
+
+    </div>
+
+    <div>
+        <h2 style="background-color: grey; font-size: 20px;" >Technical Skills</h2>
+
+        
+
+
+    </div>
+
+    <div>
+        <h2 style="background-color: grey; font-size: 20px;" >Personal details</h2>
+
+        
+
+
+    </div>
+    <div>
+        <h2 style="background-color: grey; font-size: 20px;" >Declaration</h2>
+
+        <p>I hereby declare that the above mentioned information is correct upto my knowledge..</p>
+
+        <p><br>Place : Kurnool</p>
+    </div>
+
+
+
+</body>
+</html>
