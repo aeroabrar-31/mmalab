@@ -1,0 +1,56 @@
+OUR SERVICES:
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our services</title>
+    <style>
+        #head {
+            color: purple;
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+                Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+
+        .list {
+            justify-content: center;
+            height: 420px;
+            display: block;
+            margin-left: 600px;
+            margin-right: auto;
+            color: deeppink;
+        }
+
+        body {
+            background-color: bisque;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="list">
+        <div id="head">
+            <h1>
+                Our services
+            </h1>
+        </div>
+       
+        <ul>
+            <li>Fun activities</li>
+            <li>Brief talks</li>
+            <li>Guidance through mentors</li>
+            <li>Teaching Leadership</li>
+            <li>Events and Fests</li>
+            <li>Friendly Environment</li>
+            <li>Speaking and singing competitions</li>
+            <li>Reading and writing competitions</li>
+            <li>Exciting quizzes</li>
+            <li>Awards,rewards and much more</li>
+        </ul>
+    </div>
+</body>
+
+</html>
