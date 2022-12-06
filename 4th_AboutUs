@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About us</title>
+</head>
+<style>
+    body
+    {
+        background-color: aquamarine;
+    }
+    .image
+    {
+        
+        
+        height: 500px;
+        
+           
+            width: 740px;
+            justify-content: center;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+    }
+    
+
+    .texting{
+        text-align: center;
+    }
+
+</style>
+<body>
+    <div class="texting">
+        <h1>English Club</h1>
+    </div>
+
+    <div class="p">
+        <img src="https://cdn5.vectorstock.com/i/1000x1000/49/14/english-language-club-banners-vector-23104914.jpg" alt="loading img" class="image">
+    </div>
+
+</body>
+</html>
